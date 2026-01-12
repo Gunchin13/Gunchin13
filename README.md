@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://https://github.com/Gunchin13/Gunchin13/edit/main/README.md"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://github.com/Gunchin13"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="https://www.linkedin.com/in/gunchin-savzixanova-5ba747376"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 
 </p>
