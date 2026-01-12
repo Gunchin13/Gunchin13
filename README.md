@@ -13,7 +13,6 @@
   - React, Next.js, TypeScript  
   - Vite, Redux Toolkit, Tailwind, SCSS  
   - Node.js + JSON Server  
-•⁠  ⁠📈 My YouTube channel has *global audience + 500000+ views*
 
 ---
 
@@ -65,6 +64,5 @@ Basket, checkout, categories, product listing.
 ## 🧠 Currently Working On
 •⁠  ⁠☕ CoffeeShop: Full-stack coffee shop management system (React, C#, SQL)
 •⁠  ⁠🌍 Travel Tour: Modern travel & tour booking platform (React, Node.js, TypeScript)
-•⁠  ⁠📹 Creating YouTube content about frontend and full-stack development
 •⁠  ⁠🚀 Improving UI/UX skills with Tailwind CSS & Framer Motion
 •⁠  ⁠👨‍💻 Leading a frontend team on real-world projects
