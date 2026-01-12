@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="start">Hi 👋 My name is Aslanov Orkhan</h1>
+<h1 align="start">Hi 👋 My name is Savzikhanova Gunchin</h1>
 <h3 align="start">Frontend Developer</h3>
 
 <!-- ABOUT -->
